@@ -1,0 +1,11 @@
+.content {
+	width: 91%;
+	margin: 0 auto;
+	display: block;
+	text-align: left;
+}
+
+.center {
+	width: 100%;
+	text-align: center;
+}
